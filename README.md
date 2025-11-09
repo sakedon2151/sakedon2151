@@ -1,6 +1,6 @@
 # Hey There 👋
 
-<p>I’m Sangmin — a fullstack developer with a strong passion for planning, design, architecture, development, and deployment.<br>
+<p>I’m Sangmin — a web developer with a strong passion for planning, design, architecture, development, and deployment.<br>
 I majored in industrial design and enjoy exploring knowledge across a wide range of fields and domains.<br>
 I’m also passionate about AI, 3D modeling, video editing, simple music composition, and game development.<br>
 Overall, I have a deep interest in all aspects of content creation.</p>
